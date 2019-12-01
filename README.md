@@ -1,4 +1,4 @@
-# Digital-Image-and-Video-Processing
+# Digital Image and Video Processing
 > Programming Language: C/C++.
 
 > Library: OpenCV.
